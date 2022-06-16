@@ -1,2 +1,1 @@
-hi sudheer laudey ball
-hi pallod
+hi sudheer laudey
